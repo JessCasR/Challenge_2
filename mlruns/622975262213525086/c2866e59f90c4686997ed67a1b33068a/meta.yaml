@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Jess_/OneDrive/Documentos/MCD/2do_Semestre/Programacion_II/Challenge_2/mlruns/622975262213525086/c2866e59f90c4686997ed67a1b33068a/artifacts
+end_time: 1747124237492
+entry_point_name: ''
+experiment_id: '622975262213525086'
+lifecycle_stage: active
+run_id: c2866e59f90c4686997ed67a1b33068a
+run_name: glassdoor_model_run
+run_uuid: c2866e59f90c4686997ed67a1b33068a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747124228274
+status: 3
+tags: []
+user_id: Jess_
